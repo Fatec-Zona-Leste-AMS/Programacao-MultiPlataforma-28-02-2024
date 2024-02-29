@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "app": "node app.js",
+    "sequelize": "node sequelize.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.9.2",
+    "sequelize": "^6.37.1"
+  }
+}
